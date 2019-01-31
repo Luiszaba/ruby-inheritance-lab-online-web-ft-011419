@@ -8,6 +8,8 @@ class User
     @knowledge = []
   end
   
-  
+  jim = Student.new
+  jim.first_name = "Jim"
+  jim.last_name = "Happert"
   
 end
