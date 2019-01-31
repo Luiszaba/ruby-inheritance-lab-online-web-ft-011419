@@ -8,7 +8,7 @@ def intitialize
   @knowledge = []
 end
 
-def learn(knowledge)
+def learn()
   @knowledge << knowledge
 end
 end
